@@ -3,6 +3,9 @@ To improve user experience, I added username logic -
 Clients send a username upon connecting.
 Server stores and uses these usernames for message identification, and send them with the messages.
 
+Demo:
+There is a zip file containig a demo video, and 5 images that illustrate the server and clients. feel free to watch :)
+
 Presp:
 Go to constants file, and put the openai API key (git do not allow to push it so I must have hide it)
 if you did not isntall openai, please install it:
